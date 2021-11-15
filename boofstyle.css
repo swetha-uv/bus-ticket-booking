@@ -1,0 +1,124 @@
+
+
+body{
+    background-image: url(booform\ .jpg);
+    background-size: cover;
+}
+#form{
+    background-color: rgba(0, 0, 0, 0.808);
+    height:500px;
+    width:700px;
+    margin:auto;
+    padding:20px;
+    opacity: 0.7;
+}
+#form h3{
+    border-bottom: 3px solid #3bdf7a;
+    width:210px;
+    padding: 5px;
+}
+::placeholder{
+    color:#fff
+}
+#input #input-group5{
+    width:300px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
+#input #input-group2{
+    width:300px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}#input #input-group3{
+    width:300px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}#input #input-group4{
+    width:300px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
+
+
+
+
+
+#input2 #input-group{
+    width:195px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
+#input3 #input-group{
+    margin-left: 50px;
+}
+#input4 #input-group{
+    width:300px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
+#input4 #input-group{
+    width:615px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
+#input5 h3{
+    border-bottom: 3px solid #65e046;
+    width:220px;
+    padding: 5px;
+    text-decoration: #3bdf7a;
+}
+#input6 #input-group{
+    width:300px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
+#input6 #input-group1{
+    width:615px;
+    margin:5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: transparent;
+    color:#fff
+}
